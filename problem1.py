@@ -9,3 +9,7 @@ def solve(a):
 	b = range(1,a)
 
 
+	print b
+
+solve(10)
+
