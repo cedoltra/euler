@@ -5,7 +5,7 @@ print 'hi cedric'
 
 #Find the sum of all the multiples of 3 or 5 below 1000.
 
-def solve(a, b, c):
-	return a + b + c
+def solve(a):
+	b = range(1,a)
 
-print solve(34, 23, 19)
+
